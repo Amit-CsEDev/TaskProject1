@@ -1,0 +1,15 @@
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\TaskProoject.DataAccess.dll.config
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\TaskProoject.DataAccess.dll
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\TaskProoject.DataAccess.pdb
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\EntityFramework.dll
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\EntityFramework.xml
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProject.DataAccess.csprojAssemblyReference.cache
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProject.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProject.DataAccess.csproj.CopyComplete
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProoject.DataAccess.dll
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProoject.DataAccess.pdb
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProoject.DataAccess.Migrations.dbinitialize.resources
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProject.DataAccess.csproj.GenerateResource.cache
+D:\Dev\VS Projects\HRVictTest\HRVicTest\TaskProoject.DataAccess\obj\Debug\TaskProoject.DataAccess.Migrations.dbupdateusernamenpassword.resources
